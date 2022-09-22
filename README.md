@@ -30,4 +30,4 @@ To learn how to use zkSync, please refer to the [zkSync SDK documentation](https
 
 zkSync Java SDK is distributed under the terms of the MIT license.
 See  [LICENSE](LICENSE) for details.
-Forestory special edition 
+Forestory special edition 12
